@@ -2,7 +2,7 @@
 > Frontend Developer
 <h2>About me <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-- Estudiante de último ciclo de Ingeniería de Sistemas e Informática.
+- Egresado de Ingeniería de Sistemas e Informática.
 - Apasionado por el desarrollo de software y el uso de tecnologías.
 - Creador de contenido sobre programación y tecnologías.
 
@@ -12,11 +12,12 @@
 const felixcastro = {
   pronouns: "He" | "Him",
   Skills: [
-    HTML, CSS, JavaScript,
-    React.js, Redux,
+    HTML, CSS, JavaScript, TypeScript
+    React.js, Redux, Styled components,
+    Node.js, Express,
     Laravel, MySQL,
     Sass, Bootstrap, Pug
-    Git, Figma, Postman, Firebase, 
+    Git, Figma, Postman, Firebase
   ],
   challenge: "Seguir mejorando y consolidando mis habilidades !!"
 }
