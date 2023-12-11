@@ -1,4 +1,4 @@
-### Hi 👋 I'm [Felix Castro](https://felixgonzalo.github.io/portafolio/)
+### Hi 👋 I'm [Felix Castro](https://www.hablemosdefrontend.dev/)
 > Frontend Developer
 <h2>About me <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
@@ -13,19 +13,18 @@ const felixcastro = {
   pronouns: "He" | "Him",
   Skills: [
     HTML, CSS, JavaScript, TypeScript
-    React.js, Redux, Styled components,
-    Node.js, Express,
-    Laravel, MySQL,
-    Sass, Bootstrap, Pug
-    Git, Figma, Postman, Firebase
+    React.js, Redux, Styled Components,
+    React Native, PWA, Web Performance,
+    Node.js, Express, MySQL
   ],
-  challenge: "Seguir mejorando y consolidando mis habilidades !!"
+  challenge: "Seguir mejorando y creando valor!"
 }
 ```
 
 ## Mis redes sociales 😄
-* [Youtube](https://www.youtube.com/c/FelixCastro003).
-* [Facebook](https://www.facebook.com/felixcastro003).
 * [LinkedIn](https://www.linkedin.com/in/felix-castro-cubas-633037192/).
-* [Twitter](https://twitter.com/felixcastro003).
+* [Youtube](https://www.youtube.com/c/FelixCastro003).
 * [Instagram](https://www.instagram.com/felixcastro003/).
+* [Facebook](https://www.facebook.com/felixcastro003).
+* [Twitter](https://twitter.com/felixcastro003).
+
